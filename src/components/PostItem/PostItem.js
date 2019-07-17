@@ -1,5 +1,6 @@
 import React from 'react';
 import './styles.css'
+
 function PostHeader({ author, date }) {
   return (
     <div className="post-header">
