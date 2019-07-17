@@ -5,6 +5,10 @@
   "repository": "git@github.com:AdrianoBiolchi/bootcamp-gostack-desafio-04.git",
   "author": "Adriano Biolchi <adrianobiolchi@outlook.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development"
+  },
   "devDependencies": {
     "@babel/core": "^7.5.4",
     "@babel/plugin-proposal-class-properties": "^7.5.0",
