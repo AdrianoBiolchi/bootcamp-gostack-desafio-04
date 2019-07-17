@@ -4,4 +4,4 @@ Desafio para criar um "timeline" do facebook com componentes do ReactJS.
 
 ## Tela da aplicação
 
-![alt text]('/assets/desafio-reactjs.png)
+![alt text](/assets/desafio-reactjs.png)
